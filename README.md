@@ -1,2 +1,2 @@
 # ABAP-Learnings
-ABAP Programs and features.
+This Repository contains ABAP Programs and features.
